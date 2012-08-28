@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Docket Management</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Mobile Docket Updater</string>
+
+    <string-array name="spinner1_items">
+        <item>In Progress</item>
+        <item>Waiting on Client</item>
+        <item>Completed</item>
+    </string-array>
+
+</resources>
